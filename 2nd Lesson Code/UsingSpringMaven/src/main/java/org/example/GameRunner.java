@@ -1,4 +1,4 @@
-package BasicVersion;
+package org.example;
 
 public class GameRunner {
 

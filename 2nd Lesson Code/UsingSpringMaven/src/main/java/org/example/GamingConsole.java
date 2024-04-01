@@ -1,2 +1,13 @@
-package org.example;public interface GamingConsole {
+package org.example;
+
+public interface GamingConsole {
+
+    void up();
+
+    void down();
+
+    void left();
+
+    void right();
 }
+

@@ -1,4 +1,6 @@
-public class MarioGame {
+package BasicVersion;
+
+public class MarioGame implements GamingConsole {
 
     public void up() {
         System.out.println("Jump");
